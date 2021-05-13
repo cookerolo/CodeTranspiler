@@ -8,6 +8,8 @@ You can transpile your code to native javascript easily and without much effort.
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
